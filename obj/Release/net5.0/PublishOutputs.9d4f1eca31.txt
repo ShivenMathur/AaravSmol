@@ -1,0 +1,5 @@
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/bin/Release/net5.0/publish/AaravSmol
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/bin/Release/net5.0/publish/AaravSmol.dll
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/bin/Release/net5.0/publish/AaravSmol.deps.json
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/bin/Release/net5.0/publish/AaravSmol.runtimeconfig.json
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/bin/Release/net5.0/publish/AaravSmol.pdb

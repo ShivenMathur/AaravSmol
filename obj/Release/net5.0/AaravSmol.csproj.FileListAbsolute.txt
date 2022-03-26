@@ -1,0 +1,16 @@
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/bin/Release/net5.0/AaravSmol.deps.json
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/bin/Release/net5.0/AaravSmol.runtimeconfig.json
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/bin/Release/net5.0/AaravSmol.runtimeconfig.dev.json
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/bin/Release/net5.0/AaravSmol.dll
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/bin/Release/net5.0/AaravSmol.pdb
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/obj/Release/net5.0/AaravSmol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/obj/Release/net5.0/AaravSmol.AssemblyInfoInputs.cache
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/obj/Release/net5.0/AaravSmol.AssemblyInfo.cs
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/obj/Release/net5.0/AaravSmol.csproj.CoreCompileInputs.cache
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/obj/Release/net5.0/AaravSmol.dll
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/obj/Release/net5.0/ref/AaravSmol.dll
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/obj/Release/net5.0/AaravSmol.pdb
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/obj/Release/net5.0/AaravSmol.genruntimeconfig.cache
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/bin/Release/net5.0/AaravSmol
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/obj/Release/net5.0/AaravSmol.csproj.AssemblyReference.cache
+/Users/abhinavmathur/Desktop/shiven/PROGRAMS/AaravSmol/obj/Release/net5.0/refint/AaravSmol.dll
